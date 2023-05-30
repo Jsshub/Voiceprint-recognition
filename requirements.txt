@@ -1,0 +1,14 @@
+numba>=0.52.0
+librosa>=0.9.1
+numpy>=1.19.2
+tqdm>=4.59.0
+visualdl>=2.1.1
+resampy==0.2.2
+ffmpeg-python>=0.2.0
+SoundFile~=0.10
+pyyaml>=5.4.1
+termcolor>=1.1.0
+typeguard>=2.13.3
+pydub>=0.25.1
+torchaudio>=0.12.1
+torchinfo>=1.7.2

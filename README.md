@@ -1,0 +1,2 @@
+infer_recognition_gui.py为演示demo程序
+环境配置在requirement.txt中
